@@ -1,4 +1,28 @@
+<h1 align="center">Hi 👋, I'm Pratiksha Gour</h1>
 
+<h3 align="center">B.Tech CSE Student | Java Learner | Frontend Beginner from India 🇮🇳</h3>
+
+- 🔭 I’m currently working on **Java Projects**
+
+- 🌱 I’m currently learning **DSA, Java, HTML, CSS**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
+
+- 🤝 I’m looking for help with **GitHub and Open Source**
+
+- 💬 Ask me about **Java, HTML, CSS**
+
+- ⚡ Fun fact: **I love coding and designing**
+
+<h3 align="left">🛠 Languages and Tools:</h3>
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,html,css,github,vscode" />
+</p>
+
+<p align="center">
+✨ Thanks for visiting my profile ✨
+</p>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pratikshapatel121) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Pratiksha Gour) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:prtbhgour@gmail.com) 
 
