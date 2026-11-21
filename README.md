@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Java Projects**
 
-- 🌱 I’m currently learning **DSA, Java, HTML, CSS**
+- 🌱 I’m currently learning **DSA, Java, HTML, CSS ,Spring**,
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
